@@ -1,0 +1,8 @@
+pylint
+transformers
+Pillow
+torch
+torchvision
+torchaudio
+requests
+gradio
